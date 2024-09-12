@@ -1,0 +1,1 @@
+STATSBOMB_DATA_DIR = 'open-data-master'
